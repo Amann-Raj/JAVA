@@ -1,4 +1,4 @@
-
+import java.util.*;
 
 interface Employee {
     double earnings(double basicSalary);
